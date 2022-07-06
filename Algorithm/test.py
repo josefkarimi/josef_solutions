@@ -1,5 +1,3 @@
-num = [1,2,3,4,5,6,7]
-x = list(range(3))
-print(x)
-ls = num[3:]
-print(ls)
+s = ["a","s",2,"g",]
+s.reverse()
+print(s)
