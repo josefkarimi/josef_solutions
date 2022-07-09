@@ -1,3 +1,6 @@
-from itertools import combinations
-
-print(combinations(range(5),2))
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        a, b = 1, 1
+        for i in range(n):
+            a, b = b, a + b
+        return a
