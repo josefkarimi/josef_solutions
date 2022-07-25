@@ -1,5 +1,5 @@
 import random
-
+print("salam")
 class X0:
 
     def __init__(self, boardsize = 3, players = 2):
