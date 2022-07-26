@@ -1,1 +1,2 @@
-20 tir 16457
+20-tir-1401 rank=16457 tech=0 mosabeghe=5 daneshgah=0 olampiyad=0 kol=5
+03-mordad-1401 rank=12378 tech=1 mosabeghe=6 daneshgah=0 olampiyad=0 kol=7
