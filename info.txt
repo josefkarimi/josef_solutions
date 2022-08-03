@@ -1,0 +1,6 @@
+total 20K
+-rw-rw-r-- 1 josef josef    0 آقۇست    2 17:27 info.txt
+drwxrwxr-x 6 josef josef 4.0K آقۇست    1 11:04 Leetcode
+-rw-rw-r-- 1 josef josef 4.2K جولای   20 11:57 myticktock.py
+drwxrwxr-x 2 josef josef 4.0K جولای   26 16:53 Quera
+-rw-rw-r-- 1 josef josef  145 جولای   16 19:14 README.md
