@@ -11,3 +11,7 @@ class Solution:
 
 # Runtime: 36 ms, faster than 81.20% of Python3 online submissions for N-th Tribonacci Number.
 # Memory Usage: 13.9 MB, less than 11.97% of Python3 online submissions for N-th Tribonacci Number.
+
+
+s = Solution()
+print(s.tribonacci(234))
