@@ -17,4 +17,5 @@
 2022-08-11  Rank373120 Solved=139 Easy=106 Medium=33 Hard=0
 2022-08-12  Rank368129 Solved=142 Easy=108 Medium=34 Hard=0
 2022-08-13  Rank355333 Solved=145 Easy=108 Medium=37 Hard=0
-2022-08-14  Rank353143 Solved=150 Easy=112 Medium=358 Hard=0
+2022-08-14  Rank353143 Solved=150 Easy=112 Medium=38 Hard=0
+2022-08-15  Rank341120 Solved=154 Easy=115 Medium=39 Hard=0
